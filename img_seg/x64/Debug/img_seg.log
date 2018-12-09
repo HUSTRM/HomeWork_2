@@ -1,0 +1,7 @@
+﻿  img_seg.cpp
+f:\火线时刻\img_seg\img_seg\img_seg.cpp(308): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\火线时刻\img_seg\img_seg\img_seg.cpp(310): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\火线时刻\img_seg\img_seg\img_seg.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\火线时刻\img_seg\img_seg\img_seg.cpp(341): warning C4101: “var_all”: 未引用的局部变量
+f:\火线时刻\img_seg\img_seg\img_seg.cpp(281): warning C4715: “local_Otsu”: 不是所有的控件路径都返回值
+  img_seg.vcxproj -> F:\火线时刻\img_seg\x64\Debug\img_seg.exe
