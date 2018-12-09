@@ -1,0 +1,22 @@
+﻿  main_segmentation.cpp
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\image_draw.h(85): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\image_draw.h(85): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(102): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(156): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(193): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(224): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(241): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(278): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(315): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(364): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\segmfunction.h(373): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\liujinyuan\source\repos\image_segmentation\image_segmentation\main_segmentation.cpp(51): warning C4305: “参数”: 从“double”到“float”截断
+  image_segmentation.vcxproj -> C:\Users\liujinyuan\source\repos\image_segmentation\x64\Debug\image_segmentation.exe

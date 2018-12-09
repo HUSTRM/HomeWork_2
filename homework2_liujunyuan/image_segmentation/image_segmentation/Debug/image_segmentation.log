@@ -1,0 +1,4 @@
+﻿  main_segmentation.cpp
+main_segmentation.obj : error LNK2019: 无法解析的外部符号 "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)，该符号在函数 "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ) 中被引用
+D:\Program Files (x86)\opencv\build\x64\vc15\lib\opencv_world343d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\liujinyuan\source\repos\image_segmentation\Debug\image_segmentation.exe : fatal error LNK1120: 1 个无法解析的外部命令
